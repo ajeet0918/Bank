@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Label?>
+<?import javafx.geometry.Insets?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<VBox xmlns:fx="http://javafx.com/fxml/1"
+      xmlns="http://javafx.com/javafx"
+      prefWidth="400"
+      prefHeight="300"
+      alignment="CENTER">
+
+    <!-- Add an ImageView to display the splash image -->
+    <ImageView>
+        <Image url="/Images/Splash.jpg"/>
+    </ImageView>
+
+
+    <Label text="Loading..."/>
+
+</VBox>
+
