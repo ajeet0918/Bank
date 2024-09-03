@@ -1,0 +1,5 @@
+![admin login](https://github.com/user-attachments/assets/909bcf5d-b8ac-47bd-b693-8eeb122e752a)
+![client dashboard](https://github.com/user-attachments/assets/f52c1c15-fc93-4020-b98a-1db4a76dfbb1)
+![Clinet](https://github.com/user-attachments/assets/19ec01ff-5859-40c0-b3e6-9e03c89bd09f)
+![accounts detail](https://github.com/user-attachments/assets/24412f2c-b3d9-47c2-b032-1e93a1c0f79b)
+![admin login page](https://github.com/user-attachments/assets/309d5065-e9cd-49e3-ba65-188e1fad8ae6)
